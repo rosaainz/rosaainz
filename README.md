@@ -6,3 +6,4 @@
 
 [![Twitter: rosaainz](https://img.shields.io/twitter/follow/rosaainz?style=social)](https://twitter.com/rosaainz)
 [![GitHub rosaainz](https://img.shields.io/github/followers/rosaainz?label=follow&style=social)](https://github.com/rosaainz)
+[![Instagram: rosaainz](https://img.shields.io/instagram/follow/rosaainz?style=social)](https://instagram.com/rosaainz)
