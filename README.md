@@ -4,7 +4,12 @@
 <p><em>Computer Engineering Student at <a href="https://www.uam.mx/">Universidad Autónoma Metropolitana</a></br>Mexican 🇲🇽
 </em></p>
 
+
+<h2>Find me around the web 🌍 :</h2>
 [![Twitter: rosaainz](https://img.shields.io/twitter/follow/rosaainz?style=social)](https://twitter.com/rosaainz)
 [![GitHub rosaainz](https://img.shields.io/github/followers/rosaainz?label=follow&style=social)](https://github.com/rosaainz)
 [![Instagram Badge](https://img.shields.io/badge/-rosaainz-blue?style=social&logo=Instagram&link=https://www.instagram.com/rosaainz/)](https://www.instagram.com/rosaainz/) 
+
+
+
 
