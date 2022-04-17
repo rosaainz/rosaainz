@@ -3,7 +3,7 @@
 
 <p><em>Computer Engineering Student at <a href="https://www.uam.mx/">Universidad Autónoma Metropolitana</a></br>
 </em></p>
-<p>Find me around the web:</p>
+<p><b>Find me around the web:</b></p>
 
 [![Twitter: rosaainz](https://img.shields.io/twitter/follow/rosaainz?style=social)](https://twitter.com/rosaainz)
 [![GitHub rosaainz](https://img.shields.io/github/followers/rosaainz?label=follow&style=social)](https://github.com/rosaainz)
