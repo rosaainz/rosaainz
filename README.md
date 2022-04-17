@@ -7,3 +7,4 @@
 [![Twitter: rosaainz](https://img.shields.io/twitter/follow/rosaainz?style=social)](https://twitter.com/rosaainz)
 [![GitHub rosaainz](https://img.shields.io/github/followers/rosaainz?label=follow&style=social)](https://github.com/rosaainz)
 [![Instagram Badge](https://img.shields.io/badge/-rosaainz-blue?style=social&logo=Instagram&link=https://www.instagram.com/rosaainz/)](https://www.instagram.com/rosaainz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-rosa-garcía-sainz-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rosa-garcía-sainz-0b0b19212/)](https://www.linkedin.com/in/rosa-garc%C3%ADa-sainz-0b0b19212/)
