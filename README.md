@@ -1,5 +1,4 @@
 ### Hi coders!, I'm Rosa Sainz
-![hamster-bean-hi](https://i.pinimg.com/originals/73/b0/0c/73b00c45c30219c376ee2d9b9c47deb5.gif)
 
 # 💫 About Me:
 Computer Engineering Student at <a href="https://www.uam.mx/">UAM-Azc</a><br>🪴 I'm currently learning Elixir<br>🐛 I write my experience learning software engineering on https://rosaainz.github.io/RosaSainz-Blog/<br>🦑 Fun Fact: I love dancing <br> 
