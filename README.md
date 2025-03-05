@@ -1,5 +1,5 @@
 <h1 align="center">Hi! coders my name is Rosa Sainz</h1>
-<h3 align="center">Computer Engineering Student at UAM-Azc</h3>
+<h3 align="center">Computer Engineering UAM-Azc</h3>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rosa-sainz-0b0b19212/](https://www.linkedin.com/in/rosa-sainz-0b0b19212/)
 
